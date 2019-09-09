@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-relative-links
 title: Introduction to Data Science
 description: Tulane University CMPS 3660-02 Fall 2019
 theme: jekyll-theme-cayman
