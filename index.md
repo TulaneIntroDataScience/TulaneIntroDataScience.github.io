@@ -111,7 +111,7 @@ This schedule is subject to change throughout the semester, please check it ofte
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
 ---		 	| ---		|---				| ---				| ---		| ---
-1		| 8/27		| [Class Overview / What is Data Science]()	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) | [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) <br> [Question Set 1 (Canvas)](https://tulane.instructure.com/)
+1		| 8/27		| [Class Overview / What is Data Science]()	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) | [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) <br /> [Question Set 1 (Canvas)](https://tulane.instructure.com/)
 --   | 8/29 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 2  | 9/3  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 9/5  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
@@ -174,6 +174,6 @@ Tulane University recognizes the inherent dignity of all individuals and promote
 Confidential 	| Private
 ---	   	| ---
 Except in extreme circumstances, involving imminent danger to one’s self or others, nothing will be shared without your explicit permission. | Conversations are kept as confidential as possible, but information is shared with key staff members so the University can offer resources and accommodations and take action if necessary for safety reasons.
-Counseling and Psychological Services (CAPS) | (504) 314-2277 or The Line (24/7) | (504) 264-6074 | Case Management and Victim Support Services: (504) 314-2160 or <srss@tulane.edu>
+Counseling and Psychological Services (CAPS): (504) 314-2277 or The Line (24/7): (504) 264-6074 | Case Management and Victim Support Services: (504) 314-2160 or <srss@tulane.edu>
 Student Health Center: (504) 865-5255 | Tulane University Police (TUPD): Uptown - (504) 865-5911. Downtown – (504) 988-5531
 Sexual Aggression Peer Hotline and Education (SAPHE): (504) 654-9543 | Title IX Coordinator: (504) 314-2160 or <msmith76@tulane.edu>
