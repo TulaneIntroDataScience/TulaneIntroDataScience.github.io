@@ -122,12 +122,9 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 1 | 8/27 | [What is Data Science](./_slides/01Lecture.pdf)	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) <br> <br> [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/)| [Project 0 Posted](https://github.com/TulaneIntroDataScience/fall2019/project0/) <br> <br> [Question Set 1 Out (Canvas)](https://tulane.instructure.com/)
 -- | 8/29 | [Tools & Python](./_slides/02Lecture.pdf)		| [Basic Notebook and Markdown](./_notebooks/Lecture02.ipynb)	| [Getting Started with Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)		|
 2 | 9/3  | [What is Data? / Intro to Notebooks](./_slides/03Lecture.pdf)		| [Simple Data and Graphing Notebook](./_notebooks/Lecture02.ipynb)	| | [Question Set 1 Due; Question Set 2 Out (Canvas)](https://tulane.instructure.com/)
--- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)	| [Readings Link]()		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
-
-
-
-3 | 9/10 | **Lab Day:** Hands on Pandas		| [Resources Link]()	| [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)		| [Assignments Link]()
---   | 9/12 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+-- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| 	| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
+3 | 9/10 | **Lab Day:** Hands on Pandas		| [Lab 1]() <br><br> [Lab 2]()	| [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)		| [Question Set 2 Due; Question Set 1 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 1+2 Submissions (Canvas)]
+--   | 9/12 | [Scraping Data]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 4  | 9/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 9/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 5  | 9/24 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
