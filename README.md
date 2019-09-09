@@ -86,7 +86,7 @@ This course will consist of four distinct grading areas.
 
 **Mini-Projects:** There will be between 4-6 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted at [https://github.com/TulaneIntroDataScience/fall2019](https://github.com/TulaneIntroDataScience/fall2019) and will be assigned in Canvas. The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
 
-**Labs:** We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.
+**Labs:** We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based on completion.
 
 **Midterm Exam:** This will be a written, close book, closed notes, in class exam.  This is currently scheduled for **Tuesday October 8th** (subject to change).
 
