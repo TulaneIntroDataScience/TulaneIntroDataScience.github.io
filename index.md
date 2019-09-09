@@ -110,11 +110,38 @@ Please silence your cellphones during class.  If you want to use a laptop or oth
 This schedule is subject to change throughout the semester, please check it often.
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
----		| ---		|---			| ---				| ---		| ---
+---		 	| ---		|---				| ---				| ---		| ---
 1		| 8/27		| [Class Overview / What is Data Science]()	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) | [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) \ [Question Set 1 (Canvas)](https://tulane.instructure.com/)
-
-
-
+   | 8/29 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+2  | 9/3  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 9/5  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+3  | 9/10 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 9/12 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+4  | 9/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 9/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+5  | 9/24 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 9/27 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+6  | 10/1 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 10/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+7  | 10/8 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 10/10 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+8  | 10/15 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 10/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+9  | 10/22 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 10/24 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+10 | 10/29 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 10/31 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+11 | 11/5 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 11/7 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+12 | 11/12 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 11/14 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+13 | 11/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 11/21 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+14 | 11/26 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 11/28 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+15 | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+   | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+Final | 12/15 | **Scheduled Final**		| N/A	| [Readings Link]()		| [Assignments Link]()
 
 ## Additional Student Resources
 
