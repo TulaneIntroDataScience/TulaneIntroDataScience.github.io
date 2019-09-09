@@ -63,7 +63,7 @@ At the conclusion of this course students will be able to:
 
 ## Program-Level Outcomes:
 
-This course fulfills the requirement of **one** of the CMPS 3000-level or above courses required for the coordinate major in computer science.  Students need to complete three such courses in order to complete the requirements for a coordinate major.  For more information on the coordinate major please see the requirements at [https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext](https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext)
+This course fulfills the requirement of **one** of the CMPS 3000-level or above courses required for the coordinate major in computer science.  Students need to complete three such courses in order to complete the requirements for a coordinate major.  For more information on the coordinate major please see the requirements at [the Registrar's Website](https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext)
 
 
 ## Required and Suggested Student Resources			
@@ -125,23 +125,23 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 8/29 | [Tools & Python](./_slides/02Lecture.pdf) | [Basic Notebook and Markdown](./_notebooks/Lecture03.ipynb)	| [Getting Started with Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) |
 2 | 9/3  | [What is Data? / Intro to Notebooks](./_slides/03Lecture.pdf) | [Simple Data and Graphing Notebook](./_notebooks/Lecture02.ipynb)	| | [Question Set 1 Due; Question Set 2 Out (Canvas)](https://tulane.instructure.com/)
 -- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| 	| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
-3 | 9/10 | **Lab Day:** Hands on Pandas | [Lab 1]() <br><br> [Lab 2]() | [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) | [Question Set 2 Due; 3 Out (Canvas)](https://tulane.instructure.com/)
--- | 9/12 | [Scraping Data]() | | | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/)
-4  | 9/17 | Visualizing Data - Prof. Summa | | | [Question Set 3 Due; 4 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 3 Posted]()
--- | 9/19 | **Lab Day:** Manipulating and Filtering Data | [Lab 4]() <br><br> [Lab 5]()	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Getting Spac-ey](https://github.com/TulaneIntroDataScience/fall2019/)
+3 | 9/10 | **Lab Day:** Hands on Pandas | [Lab 1 <br><br> Lab 2](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) | [Question Set 2 Due; 3 Out (Canvas)](https://tulane.instructure.com/)
+-- | 9/12 | [Scraping Data]() | | | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Out](https://github.com/TulaneIntroDataScience/fall2019/)
+4  | 9/17 | Visualizing Data - Prof. Summa | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Question Set 3 Due; 4 Out (Canvas)](https://tulane.instructure.com/)
+-- | 9/19 | **Lab Day:** Manipulating and Filtering Data | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Getting Spac-ey](https://github.com/TulaneIntroDataScience/fall2019/)
 5  | 9/24 | Tidy Data and Merging | | | [Question Set 4 Due; 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
 -- | 9/27 | Merging and Manipulating Data | | | 
 6  | 10/1 | Merging and Manipulating Data | | | [Question Set 5 Due; 6 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/3 | Missing Data | | | 
 7  | 10/8 | **Midterm Exam - In Class** | | | [Question Set 6 Due](https://tulane.instructure.com/)
 -- | 10/10 | **Fall Break - No Class**	| | | 
-8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Due (Canvas)]()
+8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Due (Canvas)]() <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/)
 -- | 10/17 | | | | [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22 | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24 | | | | 
 10 | 10/29 | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/31 | | | | [Project 2 Due (Canvas)]
-11 | 11/5 | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/)
+11 | 11/5 | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
 -- | 11/7 | | | | 
 12 | 11/12 | | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/)
 -- | 11/14 | | | | 
