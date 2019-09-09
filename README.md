@@ -1,6 +1,8 @@
 ## Introduction to Data Science Fall 2019
 CMPS-3660-02: Introduction to Data Science - Fall 2019 - 3 Credit Hours
 
+View site on [Github](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io) or [Github Pages](https://tulaneintrodatascience.github.io/)
+
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
 * **Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))
@@ -125,15 +127,15 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| 	| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
 3 | 9/10 | **Lab Day:** Hands on Pandas		| [Lab 1]() <br><br> [Lab 2]()	| [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)		| [Question Set 2 Due; Question Set 1 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 1+2 Submissions (Canvas)]
 --   | 9/12 | [Scraping Data]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-4  | 9/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 9/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-5  | 9/24 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 9/27 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-6  | 10/1 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+4  | 9/17 | Visualizing Data - Prof. Summa		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+--   | 9/19 | **Lab Day:** Manipulating and Filtering Data | [Lab 1]() <br><br> [Lab 2]()	| [Readings Link]()		| [Assignments Link]()
+5  | 9/24 | Tidy Data and Merging		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+--   | 9/27 | Merging and Manipulating Data | [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+6  | 10/1 | Merging and Manipulating Data| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 10/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-7  | 10/8 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 10/10 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-8  | 10/15 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+7  | 10/8 | **Midterm Exam - In Class** | [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+--   | 10/10 | **Fall Break - No Class**		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 10/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 9  | 10/22 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 10/24 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
@@ -146,9 +148,9 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 13 | 11/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 11/21 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 14 | 11/26 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 11/28 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-15 | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+--   | 11/28 | **Thanksgiving Break - No Class**| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+15 | 12/3 | Final Presentations I | [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+--   | 12/3 | Final Presentations II | [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 Final | 12/8 | **Final Links Due**		| N/A	| N/A		| [Final Tutorial Due on Canvas](https://tulane.instructure.com/)
 
 ## Additional Student Resources
