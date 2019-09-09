@@ -2,10 +2,10 @@
 CMPS-3660-02: Introduction to Data Science - Fall 2019 - 3 Credit Hours
 
 ## Time and Location
-**Lectures:** Tuesdays and Thursdays 
-**Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))**
-**Time:** 1100 - 1215
-**Webpage:** [https://rebrand.ly/TUDataScience](https://rebrand.ly/TUDataScience)
+* **Lectures:** Tuesdays and Thursdays 
+* **Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))
+* **Time:** 1100 - 1215
+* **Webpage:** [https://rebrand.ly/TUDataScience](https://rebrand.ly/TUDataScience)
 
 ## Instructor and TA Information
 
@@ -111,7 +111,7 @@ This schedule is subject to change throughout the semester, please check it ofte
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
 ---		| ---		|---			| ---				| ---		| ---
-1		| 8/27		| [Class Overview / What is Data Science]()	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) | [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) [Question Set 1 (Canvas)](https://tulane.instructure.com/)
+1		| 8/27		| [Class Overview / What is Data Science]()	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) | [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) \ [Question Set 1 (Canvas)](https://tulane.instructure.com/)
 
 
 
