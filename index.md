@@ -88,10 +88,18 @@ This course will consist of four distinct grading areas.
 
 **Midterm Exam:** This will be a written, close book, closed notes, in class exam.  This is currently scheduled for **Tuesday October 8th** (subject to change).
 
-**Final Project:** In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walkthrough of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including (i) identifying a dataset to use (ii) initial exploratory analysis of the data set (iii) settling on the final analysis question (iv) a draft report (v) an in class presentation of the results and (vi) a final writeup.
+**Final Project:** In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walkthrough of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including the following.
+1. Identifying a dataset and establishing a GitHub.io Site. 
+2. Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include the data being loaded and showing that you have figured out how to get the data into your system.  In addition, include some graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with.
+3. A final, in class presentation.
+4. A final tutorial and website.
 
-
-**Final Grade Policy:** The weighted average will determine your letter grade roughly as follows: A >= 90%; B >= 80%; C >= 70%; D >= 60%; F < 60% +/- grades will be given for borderline cases.	
+**Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
+* A >= 90%
+* B >= 80%
+* C >= 70%
+* D >= 60%
+* F < 60% 
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
@@ -111,11 +119,14 @@ This schedule is subject to change throughout the semester, please check it ofte
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
 ---		 	| ---		|---				| ---				| ---		| ---
-1		| 8/27		| [What is Data Science](./slides/01Lecture.pdf)	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) <br> <br> [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/)| [Project 1 Posted](https://github.com/TulaneIntroDataScience/fall2019) <br> <br> [Question Set 1 (Canvas)](https://tulane.instructure.com/)
---   | 8/29 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-2  | 9/3  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
---   | 9/5  | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-3  | 9/10 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
+1 | 8/27 | [What is Data Science](./_slides/01Lecture.pdf)	| N/A	| [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) <br> <br> [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/)| [Project 0 Posted](https://github.com/TulaneIntroDataScience/fall2019/project0/) <br> <br> [Question Set 1 Out (Canvas)](https://tulane.instructure.com/)
+-- | 8/29 | [Tools & Python](./_slides/02Lecture.pdf)		| [Basic Notebook and Markdown](./_notebooks/Lecture02.ipynb)	| [Getting Started with Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)		|
+2 | 9/3  | [What is Data? / Intro to Notebooks](./_slides/03Lecture.pdf)		| [Simple Data and Graphing Notebook](./_notebooks/Lecture02.ipynb)	| | [Question Set 1 Due; Question Set 2 Out (Canvas)](https://tulane.instructure.com/)
+-- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)	| [Readings Link]()		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
+
+
+
+3 | 9/10 | **Lab Day:** Hands on Pandas		| [Resources Link]()	| [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)		| [Assignments Link]()
 --   | 9/12 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 4  | 9/17 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 9/19 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
@@ -141,7 +152,7 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 --   | 11/28 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 15 | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
 --   | 12/3 | [Slides Link]()		| [Resources Link]()	| [Readings Link]()		| [Assignments Link]()
-Final | 12/15 | **Scheduled Final**		| N/A	| [Readings Link]()		| [Assignments Link]()
+Final | 12/8 | **Final Links Due**		| N/A	| N/A		| [Final Tutorial Due on Canvas](https://tulane.instructure.com/)
 
 ## Additional Student Resources
 
