@@ -76,25 +76,25 @@ There is no required textbook for this course.  However, we will make extensive 
 
 
 ## Evaluation Procedures and Grading Criteria
-This course will consist of four distinct grading areas.
+This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   15% - Weekly Questions
 *   40% - Mini-Projects and Labs
 *   15% - Midterm Exam
 *   30% - Final Project
 
-**Weekly Questions:** I will post a multiple choice and short answer quiz (about) every Tuesday on Canvas which will be due the following Tuesday before midnight.  The questions will cover various topics discussed in class as well as items from the readings that will be assigned.
+**Weekly Questions:** I will post a multiple choice and short answer quiz (about) every Tuesday on Canvas which will be due the following Tuesday before midnight.  The questions will cover various topics discussed in class as well as items from the readings that will be assigned. (\~10 points each)
 
-**Mini-Projects:** There will be between 4-6 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted at [https://github.com/TulaneIntroDataScience/fall2019](https://github.com/TulaneIntroDataScience/fall2019) and will be assigned in Canvas. The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
+**Mini-Projects:** There will be between 4-6 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted at [https://github.com/TulaneIntroDataScience/fall2019](https://github.com/TulaneIntroDataScience/fall2019) and will be assigned in Canvas. The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.** \~25 points for the first project, \~100 for all others).
 
-**Labs:** We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based on completion.
+**Labs:** We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~10 points each and graded based on completion.
 
 **Midterm Exam:** This will be a written, close book, closed notes, in class exam.  This is currently scheduled for **Tuesday October 8th** (subject to change).
 
 **Final Project:** In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walkthrough of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including the following.
-1. Identifying a dataset and establishing a GitHub.io Site. 
-2. Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include the data being loaded and showing that you have figured out how to get the data into your system.  In addition, include some graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with.
-3. A final, in class presentation.
-4. A final tutorial and website.
+1. Identifying a dataset and establishing a GitHub.io Site. (\~25 points)
+2. Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include the data being loaded and showing that you have figured out how to get the data into your system.  In addition, include some graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with. (\~50 points)
+3. A final, in class presentation. (\~50 points)
+4. A final tutorial and website. (\~75 points)
 
 **Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
