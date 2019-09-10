@@ -128,7 +128,7 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 2 | 9/3  | [What is Data? / Intro to Notebooks](./_slides/03Lecture.pdf) | [Simple Data and Graphing Notebook](./_notebooks/Lecture02.ipynb)	| | [Question Set 1 Due; Question Set 2 Out (Canvas)](https://tulane.instructure.com/)
 -- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| 	| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
 3 | 9/10 | **Lab Day:** Hands on Pandas | [Lab 1 <br><br> Lab 2](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) | [Question Set 2 Due; 3 Out (Canvas)](https://tulane.instructure.com/)
--- | 9/12 | [Scraping Data]() | [Scraping Notebook]() | [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Out](https://github.com/TulaneIntroDataScience/fall2019/)
+-- | 9/12 | [Scraping Data]() | [Scraping Notebook]() | [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 4  | 9/17 | Visualizing Data - Prof. Summa | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Question Set 3 Due; 4 Out (Canvas)](https://tulane.instructure.com/)
 -- | 9/19 | **Lab Day:** Manipulating and Filtering Data | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
 5  | 9/24 | Tidy Data and Merging | | | [Question Set 4 Due; 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
@@ -137,7 +137,7 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 10/3 | Missing Data | | | 
 7  | 10/8 | **Midterm Exam - In Class** | | | [Question Set 6 Due](https://tulane.instructure.com/)
 -- | 10/10 | **Fall Break - No Class**	| | | 
-8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Due (Canvas)]() <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/)
+8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Due (Canvas)]() <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 -- | 10/17 | | | | [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22 | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24 | | | | 
@@ -151,7 +151,7 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 11/21 | NLP | | | 
 14 | 11/26 | NLP | | | [Question Set 12 Due](https://tulane.instructure.com/)
 -- | 11/28 | **Thanksgiving Break - No Class**| | |
-15 | 12/3 | Final Presentations I  | | | 
+15 | 12/3 | Final Presentations I  | | | [Final Tutorial Rubric](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) 
 -- | 12/3 | Final Presentations II | | | 
 Final | 12/8 | **Final Links Due** | | | [Final Tutorial Due on Canvas](https://tulane.instructure.com/)
 
@@ -159,13 +159,6 @@ Final | 12/8 | **Final Links Due** | | | [Final Tutorial Due on Canvas](https://
 
 Over the course of the semester I will update this section with additional links and resources that may be useful for you.
 * *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media Inc., 2015. Code but not text available online at: [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
-
-Similar courses at other universities:
-
-*   [http://data8.org/](http://data8.org/)
-*   [http://www.cs.umd.edu/class/fall2018/cmsc320/](http://www.cs.umd.edu/class/fall2018/cmsc320/)
-*   [https://cmsc320.github.io/](https://cmsc320.github.io/)
-*   [http://www.datasciencecourse.org/](http://www.datasciencecourse.org/)
 
 A large debt for this course is owed to John P. Dickerson at UMD and his course ([http://jpdickerson.com/](http://jpdickerson.com/)).
 
@@ -178,7 +171,8 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
   * [Course Website](http://users.csc.calpoly.edu/~dsun09/data301/lectures.html)
   * [GitHub Repo](https://github.com/dlsun/Data301Winter2019)
 
-* Data8 Resources (Berkeley Data Science Course) 
+* Data8 Resources (Berkeley Data Science Course)
+  * [Data8](http://data8.org/) 
   * [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
   * [Data8 Fall 2018 course (has slides)](http://data8.org/fa18/)
   * [Data 8 Fall 2016 (has videos)](http://data8.org/fa16/)
@@ -201,6 +195,7 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 * [Learning Pandas Notebooks!](https://github.com/tdpetrou/Learn-Pandas)
 
 * [Zico Kolter’s course at Carnegie Mellon University](http://zicokolter.com/courses/)
+  * [Practical Data Science](http://www.datasciencecourse.org/)
 
 * Setting up a simple GitHub Pages website with Markdown
   * [One Tutorial](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
