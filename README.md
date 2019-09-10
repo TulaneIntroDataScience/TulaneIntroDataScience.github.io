@@ -172,10 +172,10 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 * John P. Dickerson's DS Class at UMD [Fall 2019](https://cmsc320.github.io/) [Fall 2018](http://www.cs.umd.edu/class/fall2018/cmsc320/) [GitHub](https://github.com/cmsc320)
 
 * Data8 Resources (Berkeley Data Science Course) 
-** [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
-** [Data8 Fall 2018 course (has slides)](http://data8.org/fa18/)
-** [Data 8 Fall 2016 (has videos)](http://data8.org/fa16/)
-** [Data8 Book](https://www.inferentialthinking.com/chapters/intro)
+  * [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
+  * [Data8 Fall 2018 course (has slides)](http://data8.org/fa18/)
+  * [Data 8 Fall 2016 (has videos)](http://data8.org/fa16/)
+  * [Data8 Book](https://www.inferentialthinking.com/chapters/intro)
 
 Other Berkeley Resources:
 Probability 140 Class: http://prob140.org/
