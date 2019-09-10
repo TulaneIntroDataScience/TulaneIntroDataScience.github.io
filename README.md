@@ -155,7 +155,7 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 12/3 | Final Presentations II | | | 
 Final | 12/8 | **Final Links Due** | | | [Final Tutorial Due on Canvas](https://tulane.instructure.com/)
 
-## Additional Student Resources
+## Additional Resources for Data Science Students
 
 Over the course of the semester I will update this section with additional links and resources that may be useful for you.
 * *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media Inc., 2015. Code but not text available online at: [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
@@ -169,7 +169,14 @@ Similar courses at other universities:
 
 A large debt for this course is owed to John P. Dickerson at UMD and his course ([http://jpdickerson.com/](http://jpdickerson.com/)).
 
-* John P. Dickerson's DS Class at UMD [Fall 2019](https://cmsc320.github.io/) [Fall 2018](http://www.cs.umd.edu/class/fall2018/cmsc320/) [GitHub](https://github.com/cmsc320)
+* John P. Dickerson's DS Class at UMD 
+  * [Fall 2019](https://cmsc320.github.io/) 
+  * [Fall 2018](http://www.cs.umd.edu/class/fall2018/cmsc320/) 
+  * [GitHub](https://github.com/cmsc320)
+
+* Dennis Sun’s DS Course at CalPoly 
+  * [Course Website](http://users.csc.calpoly.edu/~dsun09/data301/lectures.html)
+  * [GitHub Repo](https://github.com/dlsun/Data301Winter2019)
 
 * Data8 Resources (Berkeley Data Science Course) 
   * [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
@@ -177,31 +184,27 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
   * [Data 8 Fall 2016 (has videos)](http://data8.org/fa16/)
   * [Data8 Book](https://www.inferentialthinking.com/chapters/intro)
 
-Other Berkeley Resources:
-Probability 140 Class: http://prob140.org/
-Prob 140 Textbook: http://prob140.org/textbook/chapters/README
-DS100 Mast head: http://www.ds100.org/
-DS100 Textbook: https://www.textbook.ds100.org/
-Last years DS100 with resources: http://www.ds100.org/sp18/syllabus
-Data 100 repository: https://github.com/DS-100
+* Other Berkeley Resources:
+  * [Probability 140 Class](http://prob140.org/)
+  * [Prob 140 Textbook](http://prob140.org/textbook/chapters/README)
+  * [DS100 Mast head](http://www.ds100.org/)
+  * [DS100 Textbook](https://www.textbook.ds100.org/)
+  * [2018 DS100 with resources](http://www.ds100.org/sp18/syllabus)
+  * [Data 100 GitHub](https://github.com/DS-100)
 
-UIUC Data Science Course: https://github.com/Yiming-Gao/UIUC-Spring-2017/tree/master/INFO-490
+* [Data Science at UIUC UIUC Data Science Course](https://github.com/Yiming-Gao/UIUC-Spring-2017/tree/master/INFO-490)
 
-Cal Poly Dennis Sun’s Course (very notebook based!): http://users.csc.calpoly.edu/~dsun09/data301/lectures.html
-Dennis’s stuff: https://github.com/dlsun/Data301Winter2019
+* Course and textbook from Alan Downey at Olin College.
+  * [Course (2019)](https://sites.google.com/site/olinds19/)
+  * [Think Stats Textbook](https://greenteapress.com/wp/think-stats-2e/)
 
-Think stats book: https://greenteapress.com/wp/think-stats-2e/
-Course from Think Stats guy at Olin: https://sites.google.com/site/olinds19/
+* [Learning Pandas Notebooks!](https://github.com/tdpetrou/Learn-Pandas)
 
-Learning Pandas Notebooks! https://github.com/tdpetrou/Learn-Pandas
+* [Zico Kolter’s course at Carnegie Mellon University](http://zicokolter.com/courses/)
 
-Zico Kolter’s course: http://zicokolter.com/courses/
-
-
-Setting up a simple GitHub Pages website with Markdown
-Very easy site: https://nicolas-van.github.io/easy-markdown-to-github-pages/
-Simple tutorial: https://github.com/kbroman/simple_site
-
+* Setting up a simple GitHub Pages website with Markdown
+  * [One Tutorial](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+  * [A Second](https://github.com/kbroman/simple_site)
 
 ## ADA / Accessibility Statement
 
