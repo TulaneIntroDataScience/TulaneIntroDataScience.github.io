@@ -55,16 +55,14 @@ At the conclusion of this course students will be able to:
 *   Have a basic understanding of data management and storage systems.
 *   Be able to clean data and perform basic statistical analysis of the data including visualization.
 *   Have an understanding of statistical hypothesis testing including t-tests and bootstrapped confidence intervals.
-*   Be able to use one or more machine learning algorithms for classification, regression, and prediction of data.
+*   Be able to use one or more machine learning algorithms for classification and regression.
 *   Be able to present the results of a complete data analysis in written, visual, and presentation.
 
 **Note to Students: This is a brand new course and we’re trying lots of new things!  Please work with us on making this course a success!**
 
-
 ## Program-Level Outcomes:
 
 This course fulfills the requirement of **one** of the CMPS 3000-level or above courses required for the coordinate major in computer science.  Students need to complete three such courses in order to complete the requirements for a coordinate major.  For more information on the coordinate major please see the requirements at [the Registrar's Website](https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext)
-
 
 ## Required and Suggested Student Resources			
 
@@ -74,8 +72,8 @@ There is no required textbook for this course.  However, we will make extensive 
 * *Python Data Science Handbook: Essential Tools for Working with Data*, Jake VanderPlass. O’Reilly Media Inc., 2016.  Available online for free at: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * *Computational and Inferential Thinking: The Foundations of Data Science*, Ani Adhikari and John DeNero. A free online textbook that includes interactive Jupyter notebooks and public data sets for all examples at: [https://www.inferentialthinking.com/chapters/intro](https://www.inferentialthinking.com/chapters/intro)
 
-
 ## Evaluation Procedures and Grading Criteria
+
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   15% - Weekly Questions
 *   40% - Mini-Projects and Labs
@@ -106,6 +104,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
 ## Attendance
+
 **Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
 
 ## Use of Electronic Devices
@@ -117,7 +116,10 @@ Please silence your cellphones during class.  If you want to use a laptop or oth
 
 ## Schedule
 
-This schedule is subject to change throughout the semester, please check it often.
+This schedule is subject to change throughout the semester, please check it often.  This class and the assignments are maintained in a public GitHub so you can access any of these whenever you want.
+* [Link to Slides Directory](./_slides/)
+* [Link to Demonstration Notebooks](./_notebooks/)
+* [Links to Labs, Projects, and Final Tutorial](https://github.com/TulaneIntroDataScience/fall2019)
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
 ---		 	| ---		|---				| ---				| ---		| ---
@@ -166,6 +168,40 @@ Similar courses at other universities:
 *   [http://www.datasciencecourse.org/](http://www.datasciencecourse.org/)
 
 A large debt for this course is owed to John P. Dickerson at UMD and his course ([http://jpdickerson.com/](http://jpdickerson.com/)).
+
+* John P. Dickerson's DS Class at UMD [Fall 2019](https://cmsc320.github.io/) [Fall 2018](http://www.cs.umd.edu/class/fall2018/cmsc320/) [GitHub](https://github.com/cmsc320)
+
+* Data8 Resources (Berkeley Data Science Course) 
+** [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
+** [Data8 Fall 2018 course (has slides)](http://data8.org/fa18/)
+** [Data 8 Fall 2016 (has videos)](http://data8.org/fa16/)
+** [Data8 Book](https://www.inferentialthinking.com/chapters/intro)
+
+Other Berkeley Resources:
+Probability 140 Class: http://prob140.org/
+Prob 140 Textbook: http://prob140.org/textbook/chapters/README
+DS100 Mast head: http://www.ds100.org/
+DS100 Textbook: https://www.textbook.ds100.org/
+Last years DS100 with resources: http://www.ds100.org/sp18/syllabus
+Data 100 repository: https://github.com/DS-100
+
+UIUC Data Science Course: https://github.com/Yiming-Gao/UIUC-Spring-2017/tree/master/INFO-490
+
+Cal Poly Dennis Sun’s Course (very notebook based!): http://users.csc.calpoly.edu/~dsun09/data301/lectures.html
+Dennis’s stuff: https://github.com/dlsun/Data301Winter2019
+
+Think stats book: https://greenteapress.com/wp/think-stats-2e/
+Course from Think Stats guy at Olin: https://sites.google.com/site/olinds19/
+
+Learning Pandas Notebooks! https://github.com/tdpetrou/Learn-Pandas
+
+Zico Kolter’s course: http://zicokolter.com/courses/
+
+
+Setting up a simple GitHub Pages website with Markdown
+Very easy site: https://nicolas-van.github.io/easy-markdown-to-github-pages/
+Simple tutorial: https://github.com/kbroman/simple_site
+
 
 ## ADA / Accessibility Statement
 
