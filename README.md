@@ -117,8 +117,8 @@ Please silence your cellphones during class.  If you want to use a laptop or oth
 ## Schedule
 
 This schedule is subject to change throughout the semester, please check it often.  This class and the assignments are maintained in a public GitHub so you can access any of these whenever you want.
-* [Link to Slides Directory](./_slides/)
-* [Link to Demonstration Notebooks](./_notebooks/)
+* [Link to Slides Directory](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io/tree/master/_slides)
+* [Link to Demonstration Notebooks](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io/tree/master/_notebooks)
 * [Links to Labs, Projects, and Final Tutorial](https://github.com/TulaneIntroDataScience/fall2019)
 
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
