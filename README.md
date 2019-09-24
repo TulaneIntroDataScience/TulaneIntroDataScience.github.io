@@ -131,14 +131,14 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 9/12 | [Scraping Data](./_slides/05Lecture.pdf) | [Scraping Notebook](./_notebooks/Lecture05-Scraping.ipynb) | [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/)
 4  | 9/17 | [**Visualizing Data - Prof. Summa**](./_slides/06Lecture.pdf) | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Question Set 3 Due](https://tulane.instructure.com/)
 -- | 9/19 | **Lab Day:** Manipulating and Filtering Data (Arie Glazier) | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
-5  | 9/24 | Review Labs, Tidy Data and Merging | | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 Due (Canvas)](https://tulane.instructure.com/)
--- | 9/27 | Merging and Manipulating Data | | | [Lab 5 Due (Canvas)](https://tulane.instructure.com/)
+5  | 9/24 | **Lab Day:** Filtering Data / Review Old Labs | | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
+-- | 9/27 | Merging and Manipulating Data | | |
 6  | 10/1 | Merging and Manipulating Data | | | [Question Set 5 Due; 6 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/3 | Missing Data | | | 
 7  | 10/8 | **Midterm Exam - In Class** | | | [Question Set 6 Due](https://tulane.instructure.com/)
 -- | 10/10 | **Fall Break - No Class**	| | | 
-8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Due (Canvas)]() <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
--- | 10/17 | | | | [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
+8  | 10/15 | Ethics in Data Science <br> **Ethical and Legal Issues in Data with Prof. Jeremy Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
+-- | 10/17 | | | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22 | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24 | | | | 
 10 | 10/29 | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
