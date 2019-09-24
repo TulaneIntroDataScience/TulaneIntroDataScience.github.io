@@ -121,32 +121,6 @@ This schedule is subject to change throughout the semester, please check it ofte
 * [Link to Demonstration Notebooks](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io/tree/master/_notebooks)
 * [Links to Labs, Projects, and Final Tutorial](https://github.com/TulaneIntroDataScience/fall2019)
 
-
-<table style="width: 100%;" >
-<tbody>
-<tr>
-<td> Week </td>
-<td> Date </td>
-<td> Topic / Slides </td>
-<td> Reading </td>
-<td> Extra Resources </td>
-<td> Assignments </td>
-</tr>
-<tr>
-<td>1</td>
-<td>8/27</td>
-<td>[What is Data Science](./_slides/01Lecture.pdf)</td>
-<td> [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) 
-  <br> <br> 
-  [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/)</td>
-<td>&nbsp;</td>
-<td>[Project 0 Posted - Setting up your Environment](https://github.com/TulaneIntroDataScience/fall2019/) <br> <br> 
-[Question Set 1 Out (Canvas)](https://tulane.instructure.com/)</td>
-</tr>
-</tbody>
-</table>
-
-
 Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments 
 ---		 	| ---		|---				| ---				| ---		| ---
 1 | 8/27 | [What is Data Science](./_slides/01Lecture.pdf)	| | [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) <br> <br> [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/)| [Project 0 Posted - Setting up your Environment](https://github.com/TulaneIntroDataScience/fall2019/) <br> <br> [Question Set 1 Out (Canvas)](https://tulane.instructure.com/)
