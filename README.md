@@ -86,7 +86,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Labs:** We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~10 points each and graded based on completion.
 
-**Midterm Exam:** This will be a written, close book, closed notes, in class exam.  This is currently scheduled for **Tuesday October 8th** (subject to change).
+**Midterm Exam:** This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.
 
 **Final Project:** In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walkthrough of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including the following.
 1. Identifying a dataset and establishing a GitHub.io Site. (\~25 points)
@@ -129,10 +129,10 @@ Week		| Date		| Topic / Slides	| Extra Resources	| Readings	| Assignments
 -- | 9/5  | [Intro to Git](./_slides/04Lecture.pdf)		| 	| [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		| [Project0 Due (Canvas)](https://tulane.instructure.com/)
 3 | 9/10 | **Lab Day:** Hands on Pandas | [Lab 1 <br><br> Lab 2](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) | [Question Set 2 Due; 3 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 -- | 9/12 | [Scraping Data](./_slides/05Lecture.pdf) | [Scraping Notebook](./_notebooks/Lecture05-Scraping.ipynb) | [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/)
-4  | 9/17 | **Visualizing Data - Prof. Summa** | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Question Set 3 Due](https://tulane.instructure.com/)
+4  | 9/17 | [**Visualizing Data - Prof. Summa**](./_slides/06Lecture.pdf) | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Question Set 3 Due](https://tulane.instructure.com/)
 -- | 9/19 | **Lab Day:** Manipulating and Filtering Data (Arie Glazier) | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
-5  | 9/24 | Tidy Data and Merging | | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
--- | 9/27 | Merging and Manipulating Data | | | 
+5  | 9/24 | Review Labs, Tidy Data and Merging | | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 Due (Canvas)](https://tulane.instructure.com/)
+-- | 9/27 | Merging and Manipulating Data | | | [Lab 5 Due (Canvas)](https://tulane.instructure.com/)
 6  | 10/1 | Merging and Manipulating Data | | | [Question Set 5 Due; 6 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/3 | Missing Data | | | 
 7  | 10/8 | **Midterm Exam - In Class** | | | [Question Set 6 Due](https://tulane.instructure.com/)
