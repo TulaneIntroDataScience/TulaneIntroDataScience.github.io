@@ -70,6 +70,7 @@ There is no required textbook for this course.  However, we will make extensive 
 
 **Online Books:**
 * *Python Data Science Handbook: Essential Tools for Working with Data*, Jake VanderPlass. O’Reilly Media Inc., 2016.  Available online for free at: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+  * This textbook also has the **entire book as a notebook, with examples** on this [GitHub page](https://github.com/jakevdp/PythonDataScienceHandbook).
 * *Computational and Inferential Thinking: The Foundations of Data Science*, Ani Adhikari and John DeNero. A free online textbook that includes interactive Jupyter notebooks and public data sets for all examples at: [https://www.inferentialthinking.com/chapters/intro](https://www.inferentialthinking.com/chapters/intro)
 
 ## Evaluation Procedures and Grading Criteria
@@ -121,7 +122,7 @@ This schedule is subject to change throughout the semester, please check it ofte
 * [Link to Demonstration Notebooks](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io/tree/master/_notebooks)
 * [Links to Labs, Projects, and Final Tutorial](https://github.com/TulaneIntroDataScience/fall2019)
 
-Week | Date	| Topic / Slides	                                              | Extra Resources	                                                                            | Readings	| Assignments 
+Week | Date	| Topic / Slides	                                              | Extra Resources	                                                                            | Required Readings	| Assignments 
 ---         | ---		                                                        | ---				                                                                                  | ---				| ---		| ---
 1  | 8/27   | [What is Data Science](./_slides/01Lecture.pdf)	              |                                                                                             | [Economist Article on Python](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) <br> <br> [FiveThirtyEight - What the Fox Knows](https://fivethirtyeight.com/features/what-the-fox-knows/) | [Project 0 Posted - Setting up your Environment](https://github.com/TulaneIntroDataScience/fall2019/) <br> <br> [Question Set 1 Out (Canvas)](https://tulane.instructure.com/)
 -- | 8/29   | [Tools & Python](./_slides/02Lecture.pdf)                     | [Basic Notebook and Markdown](./_notebooks/Lecture02-BasicPython.ipynb)	                    | [Getting Started with Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) |
@@ -132,10 +133,10 @@ Week | Date	| Topic / Slides	                                              | Ext
 4  | 9/17   | [**Visualizing Data - Prof. Summa**](./_slides/06Lecture.pdf) | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)                | | [Question Set 3 Due](https://tulane.instructure.com/)
 -- | 9/19   | **Lab Day:** Manipulating and Filtering Data (Arie Glazier)   | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
 5  | 9/24   | **Lab Day:** Filtering Data / Review Old Labs                 |                                                                                             | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
--- | 9/27   | [Merging and Manipulating Data](./_slides/07Lecture.pdf) | [Hadley Wickham. "Tidy Data."](https://cmsc320.github.io/files/tidy_data.pdf) | [Hould, Tiny Data in Python](https://www.jeannicholashould.com/tidy-data-in-python.html) | 
-6  | 10/1   | Merging and Manipulating Data + **Lab** | | | [Question Set 5 Due; 6 Out (Canvas)](https://tulane.instructure.com/)
--- | 10/3   | Missing Data + Review                   | | |
-7  | 10/8   | **Midterm Exam - In Class** | | | [Question Set 6 Due](https://tulane.instructure.com/)
+-- | 9/27   | [Merging and Tidy Data I](./_slides/07Lecture.pdf) | [Hadley Wickham. "Tidy Data."](https://cmsc320.github.io/files/tidy_data.pdf) | [Hould, Tidy Data in Python](https://www.jeannicholashould.com/tidy-data-in-python.html) | 
+6  | 10/1   | [Merging and Tidy Data II](./_slides/07Lecture.pdf) + **Lab Day!**    | [Lab 6](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | | [Question Set 5 Due](https://tulane.instructure.com/)
+-- | 10/3   | [Merging and Tidy Data III](./_slides/07Lecture.pdf) + **Lab Day!**   | [Lab 7](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> pandassql(http://blog.yhat.com/posts/pandasql-intro.html) <br><br> [SQLite](https://www.sqlite.org/) | | [Lab 6 + Lab 7 Due (Canvas)]((https://tulane.instructure.com/))
+7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
 8  | 10/15  | **Ethical and Legal Issues - Prof. Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 -- | 10/17  | | | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
