@@ -134,8 +134,8 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 9/19   | **Lab Day:** Manipulating and Filtering Data (Arie Glazier)   | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
 5  | 9/24   | **Lab Day:** Filtering Data / Review Old Labs                 |                                                                                             | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
 -- | 9/27   | [Munging and Tidy Data I](./_slides/07Lecture.pdf) | [Munging and Tidy Data Notebook](./_notebooks/Lecture07-Manipulating_Data.ipynb) <br><br> [Hadley Wickham. "Tidy Data."](https://cmsc320.github.io/files/tidy_data.pdf) | [Hould, Tidy Data in Python](https://www.jeannicholashould.com/tidy-data-in-python.html) | 
-6  | 10/1   | [Munging and Tidy Data II](./_slides/07Lecture.pdf) + **Lab Day!**    | [Lab 6](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | | [Question Set 5 Due](https://tulane.instructure.com/)
--- | 10/3   | [Munging and Tidy Data III](./_slides/07Lecture.pdf) + **Lab Day!**   | [Lab 7](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [pandassql](http://blog.yhat.com/posts/pandasql-intro.html) <br><br> [SQLite](https://www.sqlite.org/) | | [Lab 6 + Lab 7 Due (Canvas)]((https://tulane.instructure.com/))
+6  | 10/1   | [Munging and Tidy Data II](./_slides/08Lecture.pdf) + **Lab Day!**    | [Lab 6](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | | [Question Set 5 Due](https://tulane.instructure.com/)
+-- | 10/3   | [Munging and Tidy Data III](./_slides/09Lecture.pdf) + **Lab Day!**   | [Lab 7](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [pandassql](http://blog.yhat.com/posts/pandasql-intro.html) <br><br> [SQLite](https://www.sqlite.org/) | | [Lab 6 + Lab 7 Due (Sunday!) (Canvas)](https://tulane.instructure.com/)
 7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
 8  | 10/15  | **Ethical and Legal Issues - Prof. Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
@@ -143,7 +143,7 @@ Week | Date	| Topic / Slides	                                              | Ext
 9  | 10/22  | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24  | | | | 
 10 | 10/29  | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
--- | 10/31  | | | | [Project 2 Due (Canvas)]
+-- | 10/31  | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/)
 11 | 11/5   | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
 -- | 11/7   | | | | 
 12 | 11/12  | | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/)
