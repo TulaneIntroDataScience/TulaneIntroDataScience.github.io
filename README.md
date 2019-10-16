@@ -95,7 +95,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 3. A final, in class presentation. (\~50 points)
 4. A final tutorial and website. (\~75 points)
 
-**Late Work Policy:**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at 1*10%* per day up to 5 days late, after which it will not be accepted.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**  
+**Late Work Policy:**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**  
 
 **Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
@@ -140,8 +140,8 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 10/3   | [Munging and Tidy Data III](./_slides/09Lecture.pdf) + **Lab Day!**   | [Lab 7](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [pandassql](http://blog.yhat.com/posts/pandasql-intro.html) <br><br> [SQLite](https://www.sqlite.org/) | | [Lab 6 + Lab 7 Due (Sunday!) (Canvas)](https://tulane.instructure.com/)
 7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
-8  | 10/15  | **Ethical and Legal Issues - Prof. Brock, Tulane Law.**	| | | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
--- | 10/17  | Missing Data and Entity Resolution | | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
+8  | 10/15  | Test Review + **Ethical and Legal Issues - Prof. Bock, Tulane Law.**	| | [What Does GDPR Mean For Me?](http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630) | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
+-- | 10/17  | Go Over Labs + Missing Data and Entity Resolution I | | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22  | Missing Data and Entity Resolution | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24  | | | | 
 10 | 10/29  | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
