@@ -141,7 +141,7 @@ Week | Date	| Topic / Slides	                                              | Ext
 7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
 8  | 10/15  | Test Review + **Ethical and Legal Issues - Prof. Bock, Tulane Law.**	| | [What Does GDPR Mean For Me?](http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630) | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
--- | 10/17  | Go Over Labs + Missing Data and Entity Resolution I | | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
+-- | 10/17  | Go Over Labs + Missing Data and Entity Resolution I | [Entity Resolution Tutorial, VLDB 2012](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf) | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22  | Missing Data and Entity Resolution | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24  | | | | 
 10 | 10/29  | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
@@ -161,7 +161,13 @@ Final | 12/8 | **Final Links Due** | | | [Final Tutorial Due on Canvas](https://
 ## Additional Resources for Data Science Students
 
 Over the course of the semester I will update this section with additional links and resources that may be useful for you.
-* *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media Inc., 2015. Code but not text available online at: [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+* *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* Wes McKinney, O'Reilly Media, 2017. Code and notebooks but not text available on [GitHub](https://github.com/wesm/pydata-book)
+* *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media, 2015. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch)
+* *Introduction to Machine Learning with Python: A Guide for Data Scientists*, Andreas C. Müller and Sarah Guido, O'Reilly Media, 2016.  Code but not text available on [GitHub](https://github.com/amueller/introduction_to_ml_with_python)
+
+Some Fun readings about Data Science and some key figures.
+* [John W. Tukey: His Life and Professional Contributions](https://cmsc320.github.io/files/tukey.pdf).  David R. Brillinger.  The Annals of Statistics Vol 30, No. 6, 2002.
+* [50 Years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf). David Donoho.  Manuscript Based on Invited Talk, Princeton 2015.
 
 A large debt for this course is owed to John P. Dickerson at UMD and his course ([http://jpdickerson.com/](http://jpdickerson.com/)).
 
@@ -203,6 +209,9 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 * Setting up a simple GitHub Pages website with Markdown
   * [One Tutorial](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
   * [A Second](https://github.com/kbroman/simple_site)
+
+* Some random nice websites with tutorials and examples for DS.
+  * [Python for Data Analysis Index](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html)
 
 ## ADA / Accessibility Statement
 
