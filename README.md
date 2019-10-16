@@ -141,7 +141,7 @@ Week | Date	| Topic / Slides	                                              | Ext
 7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
 8  | 10/15  | Test Review + **Ethical and Legal Issues - Prof. Bock, Tulane Law.**	| | [What Does GDPR Mean For Me?](http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630) | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
--- | 10/17  | Go Over Labs + Missing Data and Entity Resolution I | [Entity Resolution Tutorial, VLDB 2012](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf) | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
+-- | 10/17  | Go Over Labs + [Missing Data and Entity Resolution I](./_slides/10Lecture.pdf) | [Entity Resolution Tutorial, VLDB 2012](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf) | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22  | Missing Data and Entity Resolution | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24  | | | | 
 10 | 10/29  | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
