@@ -132,27 +132,27 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 9/5    | [Intro to Git](./_slides/04Lecture.pdf)		                    | 	                                                                                          | [Git Workflows Overview](https://www.atlassian.com/git/tutorials/comparing-workflows) <br><br> [Intro to Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)		                           | [Project0 Due (Canvas)](https://tulane.instructure.com/)
 3  | 9/10   | **Lab Day:** Hands on Pandas                                  | [Lab 1 <br><br> Lab 2](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) | [Question Set 2 Due; 3 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 1 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 -- | 9/12   | [Scraping Data](./_slides/05Lecture.pdf)                      | [Scraping Notebook](./_notebooks/Lecture05-Scraping.ipynb) <br><br> [Tutorial on Beautiful Soup](https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3)                                  | [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) | [Lab 1 + 2 Due (Canvas)](https://tulane.instructure.com/)
-4  | 9/17   | [**Visualizing Data - Prof. Summa**](./_slides/06Lecture.pdf) | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)                | | [Question Set 3 Due](https://tulane.instructure.com/)
+4  | 9/17   | [**Visualizing Data - Prof. Summa**](./_slides/06Lecture.pdf) | [Lab 3](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)                | | [Question Set 3 Due; 4 Out](https://tulane.instructure.com/)
 -- | 9/19   | **Lab Day:** Manipulating and Filtering Data (Arie Glazier)   | [Lab 4 <br><br> Lab 5](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs)	| | [Lab 3 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 1 Posted - Fly Me To The Moon](https://github.com/TulaneIntroDataScience/fall2019/)
-5  | 9/24   | **Lab Day:** Filtering Data / Review Old Labs                 |                                                                                             | | [Question Set 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
+5  | 9/24   | **Lab Day:** Filtering Data / Review Old Labs                 |                                                                                             | | [Question Set 4 Due; 5 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Lab 4 + 5 Due (Canvas)](https://tulane.instructure.com/)
 -- | 9/27   | [Munging and Tidy Data I](./_slides/07Lecture.pdf) | [Munging and Tidy Data Notebook](./_notebooks/Lecture07-Manipulating_Data.ipynb) <br><br> [Hadley Wickham. "Tidy Data."](https://cmsc320.github.io/files/tidy_data.pdf) | [Hould, Tidy Data in Python](https://www.jeannicholashould.com/tidy-data-in-python.html) | 
 6  | 10/1   | [Munging and Tidy Data II](./_slides/08Lecture.pdf) + **Lab Day!**    | [Lab 6](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | | [Question Set 5 Due](https://tulane.instructure.com/)
 -- | 10/3   | [Munging and Tidy Data III](./_slides/09Lecture.pdf) + **Lab Day!**   | [Lab 7](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) <br><br> [pandassql](http://blog.yhat.com/posts/pandasql-intro.html) <br><br> [SQLite](https://www.sqlite.org/) | | [Lab 6 + Lab 7 Due (Sunday!) (Canvas)](https://tulane.instructure.com/)
 7  | 10/8   | **Midterm Exam - In Class** 			  | | |
 -- | 10/10  | **Fall Break - No Class**	| | | 
-8  | 10/15  | Test Review + **Ethical and Legal Issues - Prof. Bock, Tulane Law.**	| | [What Does GDPR Mean For Me?](http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630) | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 7 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
+8  | 10/15  | Test Review + **Ethical and Legal Issues - Prof. Bock, Tulane Law.**	| | [What Does GDPR Mean For Me?](http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630) | [Tutorial Milestone 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Question Set 6 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Out](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)
 -- | 10/17  | [Missing Data and Entity Resolution I](./_slides/10Lecture.pdf) | [Entity Resolution Tutorial, VLDB 2012](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf) | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
-9  | 10/22  | Missing Data | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
--- | 10/24  | | | | 
-10 | 10/29  | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/)
+9  | 10/22  | Entity Resolution + Lab Review | | | [Question Set 6 Due; 7 Out (Canvas)](https://tulane.instructure.com/)
+-- | 10/24  | Missing Data | | [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/) | 
+10 | 10/29  | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/31  | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/)
-11 | 11/5   | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) 
+11 | 11/5   | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/) 
 -- | 11/7   | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 3 Out]()
-12 | 11/12  | | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
+12 | 11/12  | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
 -- | 11/14  | | | | 
-13 | 11/19  | | | | [Question Set 11 Due; 12 Out (Canvas)](https://tulane.instructure.com/)
+13 | 11/19  | | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/)
 -- | 11/21  | | | | 
-14 | 11/26  | | | | [Question Set 12 Due](https://tulane.instructure.com/) <br><br> [Project 3 Due (Canvas)]
+14 | 11/26  | | | | [Question Set 11 Due](https://tulane.instructure.com/) <br><br> [Project 3 Due (Canvas)]
 -- | 11/28  | **Thanksgiving Break - No Class**| | |
 15 | 12/3   | Final Presentations I  | | | [Final Tutorial Rubric](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) 
 -- | 12/3 	| Final Presentations II | | | [Tutorial Slides Due (Canvas)](https://tulane.instructure.com/)
