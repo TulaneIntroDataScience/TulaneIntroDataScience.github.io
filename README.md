@@ -144,8 +144,8 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 10/17  | [Missing Data and Entity Resolution I](./_slides/10Lecture.pdf) | [Entity Resolution Tutorial, VLDB 2012](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf) | | [Project 1 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 2 Posted - Moneyball](https://github.com/TulaneIntroDataScience/fall2019/)
 9  | 10/22  | Entity Resolution + Lab Review | | | [Question Set 6 Due; 7 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/24  | [Missing Data](./_slides/11Lecture.pdf) | [Missing Data and Linear Regression Notebook](./_notebooks/Lecture11-MissingData.ipynb)  | [Five Thirty Eight: Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/) | 
-10 | 10/29  | | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
--- | 10/31  | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/)
+10 | 10/29  | [Missing Data II](./_slides/11Lecture.pdf) | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
+-- | 10/31  | **Lab Day:** Relationships Between Variables and Observations | | |
 11 | 11/5   | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/) 
 -- | 11/7   | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 3 Out]()
 12 | 11/12  | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
@@ -168,7 +168,6 @@ Over the course of the semester I will update this section with additional links
 These books come from a more statistical background and are mainly taught in R, however, they are considered to be some of the best texts for Statistics and Data Science.  The first is an introduction, the second is appropiate for a graduate course.
 * *An Introduction to Statistical Learning with Applications in R.* Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. Springer.  Available online for free at the [authors website](http://faculty.marshall.usc.edu/gareth-james/ISL/).
 * *The Elements of Statistical Learning: Data Mining, Inference, and Prediction.* Trevor Hastie, Robert Tibshirani, and Jerome Friedman. Springer.  Available online for free at the [authors website](https://web.stanford.edu/~hastie/ElemStatLearn/).
-
 
 Some Fun readings about Data Science and some key figures.
 * [John W. Tukey: His Life and Professional Contributions](https://cmsc320.github.io/files/tukey.pdf).  David R. Brillinger.  The Annals of Statistics Vol 30, No. 6, 2002.
