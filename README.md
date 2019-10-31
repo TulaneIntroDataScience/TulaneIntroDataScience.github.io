@@ -146,13 +146,13 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 10/24  | [Missing Data](./_slides/11Lecture.pdf) | [Missing Data and Linear Regression Notebook](./_notebooks/Lecture11-MissingData.ipynb)  | [Five Thirty Eight: Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/) | 
 10 | 10/29  | [Missing Data II](./_slides/11Lecture.pdf) | | | [Question Set 7 Due; 8 Out (Canvas)](https://tulane.instructure.com/)
 -- | 10/31  | **Lab Day:** Relationships Between Variables and Observations | [Lab 8 + 9](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | |
-11 | 11/5   | | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/) 
--- | 11/7   | | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 3 Out]()
-12 | 11/12  | | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
--- | 11/14  | | | | 
-13 | 11/19  | | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/)
--- | 11/21  | | | | 
-14 | 11/26  | | | | [Question Set 11 Due](https://tulane.instructure.com/) <br><br> [Project 3 Due (Canvas)]
+11 | 11/5   | Summary Statistics | | | [Question Set 8 Due; 9 Out (Canvas)](https://tulane.instructure.com/) 
+-- | 11/7   | Machine Learning I | | | [Project 2 Due (Canvas)](https://tulane.instructure.com/) <br><br> [Project 3 Out]()
+12 | 11/12  | Machine Learning II | | | [Question Set 9 Due; 10 Out (Canvas)](https://tulane.instructure.com/) <br><br> [Tutorial Milestone 2 Due (Canvas)](https://tulane.instructure.com/)
+-- | 11/14  | Lab Day | | | 
+13 | 11/19  | Causality | | | [Question Set 10 Due; 11 Out (Canvas)](https://tulane.instructure.com/)
+-- | 11/21  | Lab Day | | | 
+14 | 11/26  | ?? | | | [Question Set 11 Due](https://tulane.instructure.com/) <br><br> [Project 3 Due (Canvas)]
 -- | 11/28  | **Thanksgiving Break - No Class**| | |
 15 | 12/3   | Final Presentations I  | | | [Final Tutorial Rubric](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) 
 -- | 12/3 	| Final Presentations II | | | [Tutorial Slides Due (Canvas)](https://tulane.instructure.com/)
@@ -216,6 +216,10 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 
 * Some random nice websites with tutorials and examples for DS.
   * [Python for Data Analysis Index](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html)
+
+* A couple of Data Science and Machine Learning interview questions.  The course covers almost the entire set of DS questions (minus the R questions).
+  * [Data Science Specific Questions](https://www.springboard.com/blog/data-science-interview-questions/).
+  * [General DS / AI / ML Questions](https://www.springboard.com/blog/machine-learning-interview-questions/).
 
 ## ADA / Accessibility Statement
 
