@@ -152,10 +152,10 @@ Week | Date	| Topic / Slides	                                              | Ext
 -- | 11/14  | **Lab Day:** Hands on Machine Learning | [Lab 10 + 11](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | 
 13 | 11/19  | [Decision Trees](./_slides/14Lecture.pdf) | | | [Question Set 10 Due](https://tulane.instructure.com/)
 -- | 11/21  | [Decision Trees II](./_slides/14Lecture.pdf) | | | 
-14 | 11/26  | Catchup / Course Wrap Up | | | [Project 3 Due (Canvas)](https://tulane.instructure.com/)
+14 | 11/26  | Catchup / Course Wrap Up | [Bonus Lab 12 Posted](https://github.com/TulaneIntroDataScience/fall2019/tree/master/labs) | | [Project 3 Due (Canvas)](https://tulane.instructure.com/)
 -- | 11/28  | **Thanksgiving Break - No Class**| | |
-15 | 12/3   | Final Presentations I  | | | [Question Set 11 Due](https://tulane.instructure.com/) <br><br> [Final Tutorial Rubric](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) 
--- | 12/3 	| Final Presentations II | | | [Tutorial Slides Due (Canvas)](https://tulane.instructure.com/)
+15 | 12/3   | [Final Presentations I](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial)  | | | [Question Set 11 Due](https://tulane.instructure.com/) <br><br> [Final Tutorial Rubric](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) 
+-- | 12/3 	| [Final Presentations II](https://github.com/TulaneIntroDataScience/fall2019/tree/master/tutorial) | | | [Tutorial Slides Due (Canvas)](https://tulane.instructure.com/)
 Final | 12/8 | **Final Links Due** | | | [Final Tutorial Due (Canvas)](https://tulane.instructure.com/) <br><br> [Final Grad Writeups Due (Canvas)](https://tulane.instructure.com/)
 
 ## Additional Resources for Data Science Students
